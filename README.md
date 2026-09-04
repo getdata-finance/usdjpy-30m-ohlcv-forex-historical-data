@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `30m` sample updated in sync
 
-> **Sample on GitHub** · `USDJPY_30m.csv` (1,850 rows, `2026-07-09` -> `2026-09-02`, 180.92 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdjpy)** — **307,929** `30m` rows (full `1m`: 9,209,554), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `USDJPY_30m.csv` (1,848 rows, `2026-07-09` -> `2026-09-02`, 180.73 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usdjpy)** — **307,929** `30m` rows (full `1m`: 9,184,987), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | US Dollar / Japanese Yen · Forex | US Dollar / Japanese Yen · Forex |
 | Timeframes | `30m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 30m rows | 1,850 | **307,929** |
-| Size | 180.92 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdjpy) |
+| 30m rows | 1,848 | **307,929** |
+| Size | 180.73 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usdjpy) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `USDJPY_30m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usdjpy) |
 | Coverage report | — | [USDJPY coverage](https://getdata.finance/coverage/usdjpy) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USDJPY_30m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:30:00+00:00 | 162.984 | 162.987 | 162.918 | 162.949 | 3808 |
-| 2026-07-09T14:00:00+00:00 | 162.949 | 163.01 | 162.895 | 162.988 | 4406 |
 | 2026-07-09T14:30:00+00:00 | 162.988 | 163.033 | 162.931 | 162.977 | 4542 |
 | 2026-07-09T15:00:00+00:00 | 162.977 | 163.023 | 162.969 | 162.97 | 3079 |
 | 2026-07-09T15:30:00+00:00 | 162.97 | 163 | 162.865 | 162.898 | 2946 |
+| 2026-07-09T16:00:00+00:00 | 162.898 | 162.935 | 162.866 | 162.91 | 3046 |
+| 2026-07-09T16:30:00+00:00 | 162.91 | 162.936 | 162.885 | 162.928 | 2042 |
 
 **Last rows**
 
